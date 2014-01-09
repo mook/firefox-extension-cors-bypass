@@ -1,0 +1,12 @@
+{
+  "name": "cors",
+  "title": "cors",
+  "id": "jid1-SGdNoOBaaWSA0w",
+  "description": "Selectively disable CORS to aid in development",
+  "author": "Mook",
+  "license": "MPL 1.1",
+  "version": "0.0.20131220",
+  "permissions": {
+    "private-browsing": true
+  }
+}
